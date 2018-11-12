@@ -9,3 +9,5 @@ Assignment 3: find out how a decision tree works in a regression task, then will
 Assignment 4: analyze the sequence of websites consequently visited by a particular person and try to predict whether this person is Alice or someone else. Includes working with sparse matrices, training Logistic Regression models, and doing feature engineering. 
 
 Assignment 5: Random Forest and Logistic Regression in credit scoring and movie reviews classification.
+
+Assignment 6: The task is to beat "A6 baseline" in Kaggle's "How good is your Medium article". Predict the number of "recommendations" for an article published on Medium.
